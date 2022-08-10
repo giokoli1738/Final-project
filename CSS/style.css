@@ -1,0 +1,26 @@
+body  {
+    background-image: url("https://images5.alphacoders.com/433/433453.jpg");
+    background-color: #cccccc;
+  }
+
+.Div1{
+font-family: Magda, serif;
+text-align: center;
+
+}
+
+
+@import url(//db.onlinewebfonts.com/c/f5c4361ce56b34d11e308046ff4de41a?family=Magda);
+@font-face {font-family: "Magda"; src:url("//db.onlinewebfonts.com/t/f5c4361ce56b34d11e308046ff4de41a.svg#Magda") format("svg"); }
+
+
+.Manifesto{
+font-family: Magda,serif;
+font-size: 26px;
+
+}
+
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
